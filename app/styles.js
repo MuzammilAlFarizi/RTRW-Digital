@@ -6,6 +6,7 @@ const COLOR_BLACK = '#484848';
 const styles = StyleSheet.create({
 	container: {
 		flex: 1,
+		backgroundColor: '#FFF'
 	},
 	font12: {
 		fontFamily: 'brown_regular',
@@ -147,7 +148,7 @@ const styles = StyleSheet.create({
 	},
 
 	textInput: {
-		borderColor: '#CACCCF',
+		borderColor: '#8a1919',
 		marginLeft: 16,
 		marginTop: -20,
 		marginBottom: -20,
