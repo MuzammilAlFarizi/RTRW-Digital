@@ -71,7 +71,7 @@ const styles = StyleSheet.create({
 	},
 	inputText: {
 		borderColor: '#CACCCF',
-		marginHorizontal: 15,
+		marginHorizontal: 16,
 		marginBottom: -18,
 		marginTop: -1,
 	},
