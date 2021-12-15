@@ -11,7 +11,7 @@ import PropTypes from 'prop-types';
 import styles from '../styles';
 const COLOR_TRANSPARENT = 'rgba(0,0,0,0)';
 const COLOR_FONT_PRIMARY_LIGHT = '#bdbdbd';
-const COLOR_BORDER_FORM = '#CACCCF';
+const COLOR_BORDER_FORM = '#f0f0f0';
 const COLOR_EVENT_ERROR = '#E00228';
 
 export default class Input extends React.Component {
